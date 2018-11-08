@@ -3,7 +3,7 @@ layout: post
 title : Braking news, 16-year-old girl dead, four teens injured in Oak Cliff rollover crash
 ---
 
-![_config.yml]({{ site.baseurl }}/images/picture.jpg)
+![_config.yml]({{ site.baseurl }}/images/download_carcrash..jpg)
 
 A 16-year-old girl is dead and four other teenagers were injured in a rollover crash in the Oak Cliff neighborhood of southwestern Dallas.
 
