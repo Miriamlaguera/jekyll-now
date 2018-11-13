@@ -15,7 +15,7 @@ permalink: /itse-2402/
 * [Areli Esquivel](https://getsemani02.github.io) 
 * [Marlen Carreno](https://marlencarreno.github.io/) 
 * [Kanesha Williams](https://kanesha00.github.io/) 
-* [Jared Jones](ttp://jared0425.github.io) 
+* [Jared Jones](ttp://jared0425.github.io/) 
 * [Alondra Soto ](https://ookawaiitostoo.github.io/) 
 * [Alexia Razo ](https://alexia2402.github.io/) 
 * [Jasmine Garcia ](jazm1ne.github.io) 
