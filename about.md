@@ -12,7 +12,7 @@
 <h2>Educatin</h2>
 <ul>
 <li>School of hard Knocks</li>
-<li></li>
 </ul>
-<p>### Contact Me ###
+
+### Contact Me ###
   <a href="mailto:someone@yoursite.com">Email Us</a></p>
